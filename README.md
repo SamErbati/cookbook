@@ -21,7 +21,7 @@ Disclaimer: Examples contributed by the community and partners do not represent 
 - Clear: Is your content well-structured and clearly written?
 - Value: Is your content valuable to the community? Does the community need it?
 
-## Main Notebooks
+## Main Notebooks.
 
 | Notebook                                                                                                                       | Category                     | Description                                                                      |
 | :----------------------------------------------------------------------------------------------------------------------------- | :--------------------------- | :------------------------------------------------------------------------------- |
